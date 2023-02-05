@@ -4,18 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="282c4f5d-d8c4-4633-9434-293ec0028a6e" name="Changes" comment="chapter 4">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jlox/lox/AstPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Expr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Parser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jlox/tool/GenerateAst.java" afterDir="false" />
+    <list default="true" id="314589c4-ebc0-4cb1-b29b-526a13e7f076" name="Changes" comment="merge from ch6">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Interpreter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jlox/lox/RuntimeError.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lox/Lox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Lox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lox/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lox/Scanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Scanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lox/Token.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Token.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lox/TokenType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jlox/lox/TokenType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Lox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Lox.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +155,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="282c4f5d-d8c4-4633-9434-293ec0028a6e" name="Changes" comment="" />
+      <changelist id="314589c4-ebc0-4cb1-b29b-526a13e7f076" name="Changes" comment="merge from ch6" />
       <created>1675007966259</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -172,6 +165,7 @@
       <workItem from="1675278660081" duration="7628000" />
       <workItem from="1675360065526" duration="3651000" />
       <workItem from="1675504049916" duration="2877000" />
+      <workItem from="1675567557581" duration="7398000" />
     </task>
     <task id="LOCAL-00001" summary="initial setup">
       <created>1675235511735</created>
