@@ -4,17 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="314589c4-ebc0-4cb1-b29b-526a13e7f076" name="Changes" comment="ch7 complete">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Environment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Stmt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jlox/lox/main.lox" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="314589c4-ebc0-4cb1-b29b-526a13e7f076" name="Changes" comment="ch8 complete">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/jlox/lox/AstPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jlox/lox/AstPrinter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Expr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Expr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Interpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Interpreter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Lox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Lox.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Parser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Stmt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Stmt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jlox/lox/main.lox" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jlox/lox/main.lox" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/jlox/tool/GenerateAst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jlox/tool/GenerateAst.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +29,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="ch7" />
+        <entry key="$PROJECT_DIR$" value="ch8" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -121,6 +118,8 @@
       <list>
         <item itemvalue="Application.main with file" />
         <item itemvalue="Application.Generate Ast" />
+        <item itemvalue="Application.main with file" />
+        <item itemvalue="Application.Generate Ast" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +141,7 @@
       <workItem from="1675957475457" duration="82000" />
       <workItem from="1675957574011" duration="111000" />
       <workItem from="1675957711400" duration="75000" />
-      <workItem from="1675957803257" duration="4398000" />
+      <workItem from="1675957803257" duration="9010000" />
     </task>
     <task id="LOCAL-00001" summary="initial setup">
       <created>1675235511735</created>
@@ -165,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675580160794</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ch8 complete">
+      <created>1675962252838</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675962252838</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,10 +202,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="RELOAD_CONTEXT" value="false" />
     <MESSAGE value="initial setup" />
     <MESSAGE value="chapter 4" />
     <MESSAGE value="ch7 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="ch7 complete" />
+    <MESSAGE value="ch8 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="ch8 complete" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

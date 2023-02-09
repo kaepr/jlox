@@ -1,6 +1,6 @@
 package com.jlox.lox;
 
-public class AstPrinter implements Expr.Visitor<String> {
+public final class AstPrinter implements Expr.Visitor<String> {
     String print(Expr expr) {
         return expr.accept(this);
     }
@@ -24,6 +24,11 @@ public class AstPrinter implements Expr.Visitor<String> {
     public String visitLiteralExpr(Expr.Literal expr) {
         if (expr.value == null) return "nil";
         return expr.value.toString();
+    }
+
+    @Override
+    public String visitLogicalExpr(Expr.Logical expr) {
+        return null;
     }
 
     @Override
