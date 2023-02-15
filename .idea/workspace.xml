@@ -6,6 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="314589c4-ebc0-4cb1-b29b-526a13e7f076" name="Changes" comment="ch12 complete">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Expr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Expr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Interpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Interpreter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jlox/lox/LoxClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jlox/lox/LoxClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Parser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Resolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Resolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Stmt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Stmt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jlox/tool/GenerateAst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jlox/tool/GenerateAst.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +145,7 @@
       <workItem from="1676232054138" duration="3639000" />
       <workItem from="1676382164414" duration="6751000" />
       <workItem from="1676440485682" duration="1000" />
-      <workItem from="1676440870979" duration="20732000" />
+      <workItem from="1676440870979" duration="25802000" />
     </task>
     <task id="LOCAL-00001" summary="initial setup">
       <created>1675235511735</created>
