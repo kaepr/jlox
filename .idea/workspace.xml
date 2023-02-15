@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="314589c4-ebc0-4cb1-b29b-526a13e7f076" name="Changes" comment="ch11 complete">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jlox/lox/LoxClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jlox/lox/LoxInstance.java" afterDir="false" />
+    <list default="true" id="314589c4-ebc0-4cb1-b29b-526a13e7f076" name="Changes" comment="ch12 complete">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Expr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Expr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Interpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Interpreter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jlox/lox/LoxFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jlox/lox/LoxFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Parser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Resolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Resolver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Stmt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jlox/lox/Stmt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jlox/lox/main.lox" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jlox/lox/main.lox" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jlox/tool/GenerateAst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jlox/tool/GenerateAst.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="ch11" />
+        <entry key="$PROJECT_DIR$" value="ch12" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -148,7 +138,7 @@
       <workItem from="1676232054138" duration="3639000" />
       <workItem from="1676382164414" duration="6751000" />
       <workItem from="1676440485682" duration="1000" />
-      <workItem from="1676440870979" duration="19941000" />
+      <workItem from="1676440870979" duration="20732000" />
     </task>
     <task id="LOCAL-00001" summary="initial setup">
       <created>1675235511735</created>
@@ -199,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676451917980</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="ch12 complete">
+      <created>1676476607077</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676476607077</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,7 +235,8 @@
     <MESSAGE value="ch9 complete" />
     <MESSAGE value="ch10 complete" />
     <MESSAGE value="ch11 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="ch11 complete" />
+    <MESSAGE value="ch12 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="ch12 complete" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
